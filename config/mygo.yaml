@@ -1,0 +1,10 @@
+
+path: F:/focus/FOCUS-WinterCamp-2026/src/datasets/mygo_data 
+train: .  
+val: .    
+
+nc: 5
+
+
+
+names: ['anon', 'soyo', 'taki', 'tomori', 'rana']

@@ -1,0 +1,12 @@
+path: F:/focus/FOCUS-WinterCamp-2026/src/datasets/common_data
+
+train: .  
+val: .    
+
+nc: 4
+
+names:
+  0: watch
+  1: cup
+  2: mouse
+  3: tissue
